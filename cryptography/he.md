@@ -206,6 +206,13 @@ Communications of the ACM, [paper](https://dl.acm.org/doi/pdf/10.1145/359340.359
   *Hao Chen, Ilaria Chillotti, Yongsoo Song*
   ASIACRYPT 2019, [paper](https://eprint.iacr.org/2019/116.pdf), CCS19
 
+### Tutorials
+
+- Privacy-preserving machine and deep learning with homomorphic encryption: an introduction
+  *Alessandro Falcetta, Manuel Roveri*
+  WCCI 2022, [paper](https://ieeexplore.ieee.org/document/9833432), [github](https://github.com/AI-Tech-Research-Lab/Introduction-to-BFV-HE-ML), FR22
+
+
 ## Impl. Efforts
 
 - Can homomorphic encryption be practical?
