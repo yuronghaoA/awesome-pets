@@ -172,6 +172,10 @@ Communications of the ACM, [paper](https://dl.acm.org/doi/pdf/10.1145/359340.359
   *Ilaria Chillotti, Damien Ligier, Jean-Baptiste Orfila, Samuel Tap*
   ASIACRYPT 2021, [paper](https://eprint.iacr.org/2021/729.pdf), CLO+21
 
+- High-Precision Bootstrapping for Approximate Homomorphic Encryption by Error Variance Minimization
+  *Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, and HyungChul Kang*
+  EUROCRYPT 2022, [paper](https://eprint.iacr.org/2020/1549.pdf), LLK+22
+
 - Efficient FHEW Bootstrapping with Small Evaluation Keys, and Applications to Threshold Homomorphic Encryption
   *Yongwoo Lee, Daniele Micciancio, Andrey Kim, Rakyong Choi, Maxim Deryabin, Jieun Eom, Donghoon Yoo*
   EUROCRYPT 2023, [paper](https://eprint.iacr.org/2022/198.pdf), LMK+23
