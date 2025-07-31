@@ -551,8 +551,8 @@ Here just list several interesting applicaitons.
   S&P 2014, [paper](https://doi.org/10.1109/SP.2014.36), BCG+14
 
 - zkLedger: Privacy-Preserving Auditing for Distributed Ledgers
-  *Gurpreet Narula, Fan Zhang, Andrew Miller, and Ari Juels*
-  USENIX 2018, [paper](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-narula.pdf), NZMJ18
+  *Neha Narula, Willy Vasquez, Madars Virza*
+  USENIX 2018, [paper](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-narula.pdf), NVV18
 
 - ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-Knowledge Proofs
   *Samuel Steffen, Benjamin Bichsel, Roger Baumgartner, and Martin Vechev*
